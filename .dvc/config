@@ -1,5 +1,5 @@
 [core]
     analytics = false
-    remote = storage
-['remote "storage"']
-    url = ../s3/buckets/dvc-gun-detection?region=us-east-1
+    remote = s3-dvc
+['remote "s3-dvc"']
+    url = s3://dvc-gun-detection
