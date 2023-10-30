@@ -1,0 +1,6 @@
+outs:
+- md5: feff83a4141c73defb85921cad033c11.dir
+  size: 560816901
+  nfiles: 828
+  hash: md5
+  path: test_images

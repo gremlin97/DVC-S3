@@ -1,0 +1,5 @@
+outs:
+- md5: 744e450f8142cec9a1a524a532f32bd5
+  size: 26121
+  hash: md5
+  path: labels_all.xlsx

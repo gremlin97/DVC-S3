@@ -1,0 +1,5 @@
+outs:
+- md5: d638a77261ed01f76bdf116e1908f2e2
+  size: 408428
+  hash: md5
+  path: train_val_guns_updated.xlsx
